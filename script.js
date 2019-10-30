@@ -133,5 +133,6 @@ function tester() {
     document.getElementById("output").innerHTML += fizz_buzz(10);
     document.getElementById("output").innerHTML += teaParty(5, 5);
     document.getElementById("output").innerHTML += blackjack(17, 18);
+    document.getElementById("output").innerHTML += loneSum(1, 2, 3);
 }
 
